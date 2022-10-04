@@ -1,23 +1,23 @@
 [submodule "CronAlarms"]
-  path=libraries/CronAlarms
+  path=./libraries/CronAlarms
   url=https://github.com/Martin-Laclaustra/CronAlarms
 
 [submodule "ESP82266WiFi"]
-  path=libraries/ESP82266WiFi
+  path=./libraries/ESP82266WiFi
   url=https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFi.h
 
 [submodule "ESP8266HTTPClient"]
-  path=libraries/ESP8266HTTPClient
+  path=./libraries/ESP8266HTTPClient
   url=https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266HTTPClient
 
 [submodule "WiFiClient"]
-  path=libraries/WiFiClient
+  path=./libraries/WiFiClient
   url=https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/WiFiClient.h
 
 [submodule "ESP8266WebServer"]
-  path=libraries/ESP8266WebServer
+  path=./libraries/ESP8266WebServer
   url=https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer
 
 [submodule "ESP8266mDNS"]
-  path=libraries/ESP8266mDNS
+  path=./libraries/ESP8266mDNS
   url=https://github.com/arduino/esp8266/blob/master/libraries/ESP8266mDNS/ESP8266mDNS.h
